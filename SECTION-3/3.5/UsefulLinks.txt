@@ -1,0 +1,12 @@
+For esp32 library
+---------------------------------------------------------
+https://github.com/espressif/arduino-esp32
+
+
+Function triggering using pub/sub
+-------------------------------------------------------------------------------------------------------------------------
+https://cloud.google.com/functions/docs/calling/pubsub#functions_calling_pubsub-python
+
+Writing, Viewing and Responding to Logs
+------------------------------------------------------------------------------------
+https://cloud.google.com/functions/docs/monitoring/logging?hl=en-GB

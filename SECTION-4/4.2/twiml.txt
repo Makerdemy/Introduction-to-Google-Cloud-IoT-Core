@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Say  language="en-US" voice="alice"> Hello! This is a test call from Twilio to confirm that, Call notification service is working
+	</Say>
+</Response>

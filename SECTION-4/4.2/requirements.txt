@@ -1,0 +1,2 @@
+google-cloud-iot == 0.3.0
+twilio == 6.29.3
