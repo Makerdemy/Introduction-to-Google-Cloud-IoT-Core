@@ -4,4 +4,3 @@
 #define REGION "<Your Project's Region>"
 #define REGISTRY "<Your Registry name>"
 #define DEVICE "<Your device name>"
-#define LED_BUILTIN 5
